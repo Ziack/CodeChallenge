@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XEOaTLhb9vFpkSLfrw60Y0lxFz3yLQHnDTAUUhFnIXQ8XTLtaA6gTRPawCwpMmBN/Zp14bkRO4uQlGLRi3SuFw==",
+  "dgSpecHash": "cQLF9oDMOvrf9MN++sHjX4zPGD1IDRCyRvtyYReZOEMC96OsceWznQmqEy1Hw6miv6FSAeKCuG7+V1/fJ+Q0wg==",
   "success": true,
-  "projectFilePath": "/Users/jgarcia/Desktop/Coding_challenge/ClimateMonitor/ClimateMonitor.csproj",
+  "projectFilePath": "/Users/jgarcia/Documents/CodeChallenge/ClimateMonitor/ClimateMonitor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

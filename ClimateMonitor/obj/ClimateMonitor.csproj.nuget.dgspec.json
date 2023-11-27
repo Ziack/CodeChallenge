@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jgarcia/Desktop/Coding_challenge/ClimateMonitor/ClimateMonitor.csproj": {}
+    "/Users/jgarcia/Documents/CodeChallenge/ClimateMonitor/ClimateMonitor.csproj": {}
   },
   "projects": {
-    "/Users/jgarcia/Desktop/Coding_challenge/ClimateMonitor/ClimateMonitor.csproj": {
+    "/Users/jgarcia/Documents/CodeChallenge/ClimateMonitor/ClimateMonitor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jgarcia/Desktop/Coding_challenge/ClimateMonitor/ClimateMonitor.csproj",
+        "projectUniqueName": "/Users/jgarcia/Documents/CodeChallenge/ClimateMonitor/ClimateMonitor.csproj",
         "projectName": "ClimateMonitor",
-        "projectPath": "/Users/jgarcia/Desktop/Coding_challenge/ClimateMonitor/ClimateMonitor.csproj",
+        "projectPath": "/Users/jgarcia/Documents/CodeChallenge/ClimateMonitor/ClimateMonitor.csproj",
         "packagesPath": "/Users/jgarcia/.nuget/packages/",
-        "outputPath": "/Users/jgarcia/Desktop/Coding_challenge/ClimateMonitor/obj/",
+        "outputPath": "/Users/jgarcia/Documents/CodeChallenge/ClimateMonitor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jgarcia/.nuget/NuGet/NuGet.Config"
